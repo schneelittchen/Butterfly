@@ -1,0 +1,12 @@
+Package: love.litten.butterfly
+Name: Butterfly 🦋
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13), ws.hbang.common (>= 1.14), com.spark.libsparkcolourpicker
+Version: 1.1.6
+Architecture: iphoneos-arm
+Description: Little colors flying around everywhere
+Maintainer: Litten
+Author: Litten
+Section: Tweaks
+Depiction: https://repo.litten.love/depictions/bty/index.html
+SileoDepiction: https://repo.litten.love/depictions/bty/bty.json
+Icon: https://repo.litten.love/depictions/bty/assets/icon.png
