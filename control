@@ -1,7 +1,7 @@
 Package: love.litten.butterfly
 Name: Butterfly 🦋
 Depends: mobilesubstrate, preferenceloader, firmware (>= 13), ws.hbang.common (>= 1.14), com.spark.libsparkcolourpicker
-Version: 1.1.6
+Version: 1.1.7
 Architecture: iphoneos-arm
 Description: Little colors flying around everywhere
 Maintainer: Litten
